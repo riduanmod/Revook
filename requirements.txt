@@ -1,7 +1,0 @@
-fastapi
-uvicorn
-httpx[http2]
-pycryptodome
-PyJWT
-protobuf
-urllib3
